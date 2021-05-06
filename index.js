@@ -28,7 +28,7 @@ mixedCase.toUpperCase() === mixedCase
 
 
 function sayHiToGrandma (string) {
-  console.log("hello!")
+  var whisper
   return "I can't hear you!";
   console.log("HELLO!")
   return "YES INDEED!";
